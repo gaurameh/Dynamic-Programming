@@ -1,2 +1,2 @@
 # Dynamic-Programming
-Dynamic Programming problems and solutions
+This repository contains various dynamic programming coding problems and their solutions
